@@ -28,6 +28,10 @@ This talk will cover practical and battle-tested ways to work together towards a
 </p>
 
 <br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6GpGPcoDPTowP7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SarahGoffDupont/dev-opsdays-minneapolis-2016" title="Marketing: your allies in the fight for DevOps (DevOps Days Minneapolis 2016)" target="_blank">Marketing: your allies in the fight for DevOps (DevOps Days Minneapolis 2016)</a> </strong> from <strong><a href="//www.slideshare.net/SarahGoffDupont" target="_blank">Sarah Goff-Dupont</a></strong> </div>
+
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/goom0X3TFX4" frameborder="0" allowfullscreen></iframe>
 
   </div>
